@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+K大院生：　　未来のスター．　REVOLUTION
+R大助教：　　(元) 数学屋. 情弱．
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+二人でやってる読み会で出た話をまとめてグダグダ書いていくサイトです．　
+機械学習中心です．
 
 ### Contact me
 
