@@ -9,7 +9,7 @@ permalink: /about/
 K大院生：未来のスター．　REVOLUTION
 
 
-R大助教：(元) 数学屋. 情弱王におれはなりたくない
+R大助教：(元) 数学屋. 情弱王に　僕はなりたくない．
 
 ### More Information
 
