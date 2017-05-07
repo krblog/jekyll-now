@@ -21,4 +21,4 @@ Maso ：　立命館教員.ヤンジャンはゴールデンカムイ派．
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[小山どっとマサノリ@gmail.com]
