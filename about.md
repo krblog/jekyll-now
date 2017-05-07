@@ -6,10 +6,10 @@ permalink: /about/
 
 
 
-Guguchi： 京大生。ヤンジャンではリクドウが好き．
+Guguchi:京大生。ヤンジャンではリクドウが好き．
 
 
-Maso ：　立命館教員.ヤンジャンはゴールデンカムイ派．
+Maso:立命館教員.ヤンジャンはゴールデンカムイ派．
 
 ### More Information
 
