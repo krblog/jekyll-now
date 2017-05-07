@@ -20,5 +20,5 @@ Maso : 立命館教員.ヤンジャンはゴールデンカムイ派．
 
 
 ### Contact me
-[yamaguchi-sあっとまーくsys.i.kyoto-u.ac.jp
+[yamaguchi-sあっとまーくsys.i.kyoto-u.ac.jp]
 [小山どっとマサノリ@gmail.com]
